@@ -1,0 +1,11 @@
+.container{
+    position: relative;
+    width: 70%;
+    margin: 120px auto 70px auto;
+}
+@media screen and (min-width: 320px) and (max-width: 860px){
+    .container{
+        width: 87.5%;
+        margin: 30px 20px;
+    }
+}
